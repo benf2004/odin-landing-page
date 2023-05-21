@@ -1,7 +1,12 @@
 * {
-    font-family: Roboto, sans-serif;
+    font-family: "Roboto", sans-serif;
     margin: 0;
 
+}
+
+.hero {
+    font-weight: 1000;
+    font-size: 48px;
 }
 
 .flex {
@@ -12,24 +17,38 @@
     color: #f9faf8
 }
 
+#logo {
+    font-size: 24px;
+    font-weight: 1000;
+}
+
 .sec-text {
     color: #e5e7eb;
     font-size: 18px;
 }
 
 .header {
+    padding-top: 10px;
     justify-content: space-between;
-
+    margin-bottom: 80px;
 }
 
 .margin-lr {
-    margin-right: 200px;
-    margin-left: 200px;
+    margin-right: 150px;
+    margin-left: 150px;
 }
 
 .arch {
-    width: 300px;
+    width: 400px;
     height: auto;
+}
+
+.w-50{
+    width: 50%
+}
+
+.between {
+    justify-content: space-between;
 }
 
 .section-1 {
