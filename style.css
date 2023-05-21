@@ -1,0 +1,38 @@
+* {
+    font-family: Roboto, sans-serif;
+    margin: 0;
+
+}
+
+.flex {
+    display: flex;
+}
+
+.bright-white {
+    color: #f9faf8
+}
+
+.sec-text {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.header {
+    justify-content: space-between;
+
+}
+
+.margin-lr {
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.arch {
+    width: 300px;
+    height: auto;
+}
+
+.section-1 {
+    background-color: #1f2937;
+
+}
